@@ -1,0 +1,8 @@
+font-family: 'Kumbh Sans', sans-serif; 
+font-family: 'Montserrat', sans-serif; -p, a
+font-family: 'Open Sans', sans-serif; -h1, h2
+font-family: 'Raleway', sans-serif; -p, a
+font-family: 'Nunito', sans-serif; -h3
+font-family: 'Fredericka the Great', cursive; - lOgO
+font-family: 'Cinzel', serif; -POST TITLE
+font-family: 'Advent Pro', sans-serif; -post author details
